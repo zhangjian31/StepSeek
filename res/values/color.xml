@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bgcolor">#EED5D2</color>
+    <color name="point_normal">#EEC591</color>
+    <color name="point_select">#EE9A00</color>
+    <color name="text_color">#8B0A50</color>
+
+</resources>
