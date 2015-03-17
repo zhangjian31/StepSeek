@@ -1,5 +1,6 @@
 关于拖动选择时间点的控件
-使用时请声名 xmlns:step="http://schemas.android.com/apk/res/com.example.stepseek"
+使用时请声名 
+xmlns:step="http://schemas.android.com/apk/res/com.example.stepseek"
     <com.example.stepseek.view.StepSeekBar
         android:id="@+id/bar"
         android:layout_width="wrap_content"
